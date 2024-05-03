@@ -1,0 +1,370 @@
+### WordPress Environment ###
+
+WordPress address (URL): https://adunsbeautyplace.com
+Site address (URL): https://adunsbeautyplace.com
+WC Version: 8.8.3
+REST API Version: ✔ 8.8.3
+Action Scheduler Version: ✔ 3.7.4
+Log Directory Writable: ✔
+WP Version: 6.5.2
+WP Multisite: –
+WP Memory Limit: 256 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_US
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 8.2.16
+PHP Post Max Size: 8 MB
+PHP Time Limit: 30
+PHP Max Input Vars: 1000
+cURL Version: 8.6.0
+OpenSSL/1.1.1w
+
+SUHOSIN Installed: –
+MySQL Version: 5.7.44-cll-lve
+Max Upload Size: 2 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.8.3
+WC Database Prefix: wpey_
+Total Database Size: 16.26MB
+Database Data Size: 15.31MB
+Database Index Size: 0.95MB
+wpey_woocommerce_sessions: Data: 0.08MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_api_keys: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_attribute_taxonomies: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_downloadable_product_permissions: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_order_items: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_order_itemmeta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_tax_rates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_tax_rate_locations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_shipping_zones: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_shipping_zone_locations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_shipping_zone_methods: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_payment_tokens: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_payment_tokenmeta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_woocommerce_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_actionscheduler_actions: Data: 0.28MB + Index: 0.12MB + Engine MyISAM
+wpey_actionscheduler_claims: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_actionscheduler_groups: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_actionscheduler_logs: Data: 0.15MB + Index: 0.12MB + Engine MyISAM
+wpey_commentmeta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_comments: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_e_events: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_e_submissions: Data: 0.00MB + Index: 0.03MB + Engine MyISAM
+wpey_e_submissions_actions_log: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_e_submissions_values: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_gla_attribute_mapping_rules: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_gla_budget_recommendations: Data: 0.10MB + Index: 0.12MB + Engine MyISAM
+wpey_gla_merchant_issues: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_gla_shipping_rates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_gla_shipping_times: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_jetpack_sync_queue: Data: 0.34MB + Index: 0.01MB + Engine MyISAM
+wpey_links: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automation_runs: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automation_run_logs: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automation_run_subjects: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automation_triggers: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_automation_versions: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_custom_fields: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_dynamic_segment_filters: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_feature_flags: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_forms: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_migrations: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_mailpoet_newsletters: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpey_mailpoet_newsletter_links: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_newsletter_option: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_newsletter_option_fields: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_mailpoet_newsletter_posts: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_newsletter_segment: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_newsletter_templates: Data: 1.04MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_scheduled_tasks: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_mailpoet_scheduled_task_subscribers: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_segments: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_mailpoet_sending_queues: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_settings: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_bounces: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_clicks: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_forms: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_newsletters: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_opens: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_unsubscribes: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_statistics_woocommerce_purchases: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_stats_notifications: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_subscribers: Data: 0.00MB + Index: 0.02MB + Engine MyISAM
+wpey_mailpoet_subscriber_custom_field: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_subscriber_ips: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_subscriber_segment: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_subscriber_tag: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_tags: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_user_agents: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_mailpoet_user_flags: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_options: Data: 5.99MB + Index: 0.12MB + Engine MyISAM
+wpey_postmeta: Data: 5.15MB + Index: 0.13MB + Engine MyISAM
+wpey_posts: Data: 2.03MB + Index: 0.06MB + Engine MyISAM
+wpey_termmeta: Data: 0.01MB + Index: 0.02MB + Engine MyISAM
+wpey_terms: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_term_relationships: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_term_taxonomy: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_tinvwl_analytics: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_tinvwl_items: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_tinvwl_lists: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_usermeta: Data: 0.08MB + Index: 0.01MB + Engine MyISAM
+wpey_users: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_admin_notes: Data: 0.03MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_admin_note_actions: Data: 0.02MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_category_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_customer_lookup: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_download_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_orders: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_orders_meta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_addresses: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_coupon_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_operational_data: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_product_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_stats: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_order_tax_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_product_attributes_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_product_download_directories: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_product_meta_lookup: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_rate_limits: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_reserved_stock: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_wc_tax_rate_classes: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpey_wc_webhooks: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_yith_wcwl: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpey_yith_wcwl_lists: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+
+### Post Type Counts ###
+
+attachment: 56
+custom_css: 3
+customize_changeset: 3
+elementor_library: 1
+mailpoet_page: 1
+nav_menu_item: 21
+page: 13
+pe-terraclassic: 1
+post: 2
+product: 16
+revision: 63
+wp_font_face: 33
+wp_font_family: 12
+wp_global_styles: 1
+wp_navigation: 1
+wpcf7_contact_form: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (14) ###
+
+Classic Widgets: by WordPress Contributors – 0.3
+Elementor Pro: by Elementor.com – 3.7.1
+Elementor: by Elementor.com – 3.21.4
+Starter Templates by Gradient Themes: by gradientthemes – 1.2.2
+Jetpack: by Automattic – 13.3.1
+Remove Footer Credit: by WPChill – 1.0.14
+Sticky Social Link: by HabibCoder – 1.0.0
+WooCommerce Stripe Gateway: by WooCommerce – 8.2.0
+WooPayments: by Automattic – 7.5.3
+WooCommerce PayPal Payments: by WooCommerce – 2.7.0
+WooCommerce: by Automattic – 8.8.3
+YITH WooCommerce Compare: by YITH – 2.38.0
+YITH WooCommerce Quick View: by YITH – 1.38.0
+YITH WooCommerce Wishlist: by YITH – 3.32.0
+
+### Inactive Plugins (6) ###
+
+Akismet Anti-spam: Spam Protection: by Automattic - Anti-spam Team – 5.3.2
+Contact Form 7: by Takayuki Miyoshi – 5.9.3
+Google Listings and Ads: by WooCommerce – 2.6.8
+Hello Dolly: by Matt Mullenweg – 1.7.2
+MailPoet: by MailPoet – 4.49.1
+Pinterest for WooCommerce: by WooCommerce – 1.3.24
+
+### Must Use Plugins (1) ###
+
+Elementor Safe Mode: by Elementor.com – 1.0.0
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: GBP (£)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+Enforce Approved Product Download Directories: ✔
+HPOS feature screen enabled: ✔
+HPOS feature enabled: ✔
+Order datastore: Automattic\WooCommerce\Internal\DataStores\Orders\OrdersTableDataStore
+HPOS data sync enabled: –
+
+### Logging ###
+
+Enabled: ✔
+Handler: Automattic\WooCommerce\Internal\Admin\Logging\LogHandlerFileV2
+Retention period: 30 days
+Level threshold: –
+Log directory size: 362 KB
+
+### WC Pages ###
+
+Shop base: #10 - /shop/
+Cart: #11 - /cart/
+Checkout: #12 - /checkout/
+My account: #13 - /my-account/
+Terms and conditions: ❌ Page not set
+
+### Theme ###
+
+Name: Open WooCommerce
+Version: 1.0.4
+Author URL: https://gradientthemes.com/
+Child Theme: ✔
+Parent Theme Name: Best Shop
+Parent Theme Version: 1.4.9
+Parent Theme Author URL: https://gradientthemes.com/
+WooCommerce Support: ✔
+
+### Templates ###
+
+Archive Template: Your theme has a woocommerce.php file
+you will not be able to override the woocommerce/archive-product.php custom template since woocommerce.php has priority over archive-product.php. This is intended to prevent display issues.
+
+Overrides: best-shop/woocommerce/content-product.php
+
+### WooPayments ###
+
+Version: 7.5.3
+Connected to WPCOM: Yes
+WPCOM Blog ID: 232590814
+Account ID: acct_1PBkkqFtAyaLGJKv
+Payment Gateway: ❌ Needs setup
+Test Mode: Enabled
+Enabled APMs: card
+WooPay: Not eligible
+Apple Pay / Google Pay: Enabled (product,cart,checkout)
+Fraud Protection Level: basic
+Multi-currency: Enabled
+Public Key Encryption: Enabled
+Auth and Capture: Enabled
+Documents: Enabled
+Logging: Enabled
+
+### WooCommerce PayPal Payments ###
+
+Onboarded: –
+Shop country code: GB
+WooCommerce currency supported: ✔
+Advanced Card Processing available in country: ✔
+Pay Later messaging available in country: ✔
+Webhook status: –
+PayPal Vault enabled: –
+ACDC Vault enabled: –
+Logging enabled: –
+Reference Transactions: –
+Used PayPal Checkout plugin: –
+Subscriptions Mode: Disabled
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customize-store
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+product-linked
+product-pre-publish-modal
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: minified-js
+new-product-management-experience
+product-custom-fields
+settings
+async-product-editor-category-field
+launch-your-store
+
+Daily Cron: ✔ Next scheduled: 2024-05-03 09:07:24 +00:00
+Options: ✔
+Notes: 71
+Onboarding: completed
+
+### Action Scheduler ###
+
+Complete: 852
+Oldest: 2024-04-28 09:07:41 +0000
+Newest: 2024-05-03 08:26:51 +0000
+
+Failed: 44
+Oldest: 2024-04-28 09:15:56 +0000
+Newest: 2024-05-03 08:40:42 +0000
+
+Pending: 4
+Oldest: 2024-05-03 09:30:43 +0000
+Newest: 2024-05-03 19:40:40 +0000
+
+
+### Status report information ###
+
+Generated at: 2024-05-03 08:56:41 +00:00
+`
